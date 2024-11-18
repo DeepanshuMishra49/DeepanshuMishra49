@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: **mishradeepanshu027@gmail.com**
 
-- 🌱 I’m currently learning **Python and Artificial Intelligence**
+- 🌱 I’m currently learning **Devops**
 
 - 🤝 I’m open to collaborating on **Java Spring Boot projects**
 
