@@ -1,5 +1,5 @@
 <h1 align="center">Hola, I'm Deepanshu Mishra</h1>
-<h3 align="center">A backend developer in progress.</h3>
+<h3 align="center">A better human in progress.</h3>
 
 - 🌍 I’m based in **India**
 
