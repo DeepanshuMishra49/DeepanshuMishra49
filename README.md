@@ -19,7 +19,6 @@
 ### 🚀 About Me
 
 - 🌍 I'm based in **India**
-- 💻 Backend Developer working with **Java & Spring Boot**
 - 🌱 Currently learning Kubernates
 - 🤝 Open to collaborating on **DevOps** projects
 - ⚡ Believer in "Build it, Containerize it, Automate it, Ship it"
@@ -43,7 +42,7 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 </p>
 
-### ⚙️ DevOps & Cloud (Currently Learning)
+### ⚙️ DevOps & Cloud 
 
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
