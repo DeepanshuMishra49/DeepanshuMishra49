@@ -2,7 +2,7 @@
 <h3 align="center"> DevOps Engineer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EC4B6&center=true&vCenter=true&width=600&lines=Java+Spring+Boot+Developer;Learning+DevOps+%26+Cloud;CI%2FCD+%7C+Docker+%7C+Kubernetes;Always+Building%2C+Always+Shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EC4B6&center=true&vCenter=true&width=600&lines=DevOps+%26+Cloud+%26+Engineer;CI%2FCD+%7C+Docker+%7C+Kubernetes;Always+Building%2C+Always+Shipping" alt="Typing SVG" />
 </p>
 
 <p align="center">
